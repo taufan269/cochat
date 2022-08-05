@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
+rtp://@239.1.2.223:9268
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",80 Ruang Trampil
+rtp://@239.1.1.126:8730
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Sport",85 USee Sports
+rtp://@239.1.2.42:8194
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Sport",86 Usee Sports 2
+rtp://@239.1.2.215:9220
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idku2_big.png" group-title="Local Channel",87 .idku
+rtp://@239.1.2.68:8384
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="Local Channel",88 USee Prime
+rtp://@239.1.1.216:9270
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="Local Channel",89 USee Photo
+rtp://@239.1.1.251:9498
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Lh6x7GG/useetoday.png" group-title="Local Channel",91 USee Today
+rtp://@239.1.2.50:8274
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel",100 TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",101 Metro TV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="Local Channel",102 CNN Indonesia
+rtp://@239.1.1.241:9362
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="Local Channel",103 TV One
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="Local Channel",104 Trans TV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",105 Trans 7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Local Channel",106 Lejel Home Shopping
+rtp://@239.1.2.3:7992
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",107 SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local Channel",108 ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel",109 Indosiar
+rtp://@239.1.1.17:8076
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Local Channel",110 MNC Shop
+rtp://@239.1.1.36:8190
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",112 Net TV
+rtp://@239.1.1.119:8688
+#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Local Channel",113 Lejel Home Shopping
+rtp://@239.1.1.3:7992
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="Local Channel",114 Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="Local Channel",115 Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Local Channel",116 Jak TV
+rtp://@239.1.1.107:8616
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Local Channel",117 MNC Lifestyle
+rtp://@239.1.2.54:8298
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local Channel",118 RTV
+rtp://@239.1.1.69:8388
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="Local Channel",119 IDX Channel
+rtp://@239.1.2.248:9398
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",120 Daai TV
+rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",121 ATV Trial
+rtp://10.6.41.20:554
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",122 Bali TV
+rtp://@239.1.1.72:8406
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",123 JTV
+rtp://@239.1.1.6:8010
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antara_big1.png" group-title="Local Channel",124 Antara
+rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",125 MYTV
+rtp://@239.1.1.162:8946
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",126 R Channel Trial
+rtp://@239.1.2.86:8304
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
+rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",130 RRI Net
+rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",131 JITV
+rtp://@239.1.1.238:9400
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",137 Jowo
+rtp://@239.1.2.6:8000
