@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="HD Channel",905 Usee Sports HD
+rtp://@239.1.2.44:8122
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="HD Channel",906 Usee Sports 2 HD
+rtp://@239.1.2.213:9210
