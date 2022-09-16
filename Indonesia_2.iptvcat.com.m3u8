@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bangka Belitung (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bengkulu (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bengkulu (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI DKI Jakarta (720p) [Not 24/7]
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Gorontalo (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Gorontalo (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jambi (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jambi (720p) [Not 24/7]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Barat (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Tengah (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Tengah (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Timur (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Barat (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Barat (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Selatan (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Tengah (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Timur (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Timur (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Lampung (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Lampung (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Maluku (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Maluku (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="General",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Nasional (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Nusa Tenggara Barat (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Nusa Tenggara Barat (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Nusa Tenggara Timur (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Nusa Tenggara Timur (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Papua (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Papua (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Riau (720p) [Not 24/7]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Riau (720p) [Not 24/7]
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",TVRI Sport HD (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Barat (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Barat (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Selatan (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Selatan (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Tengah (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Tengah (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Tenggara (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Tenggara (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Utara (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sulawesi Utara (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sumatera Barat (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sumatera Selatan (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sumatera Selatan (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sumatera Utara (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Sumatera Utara (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI World (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI World (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Yogyakarta (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Yogyakarta (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="https://i.imgur.com/aSxZooE.png" group-title="General;FRANCE",Televisión Tarapoto (720p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",TimesNavbharat
+http://78.129.150.52/tsstreamer/TimesNavbharatLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="https://i.imgur.com/VMMNhkf.png" group-title="Music;FRANCE",Top Latino TV (404p) [Not 24/7]
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",TraceBrazuka
+http://78.129.237.68/tsstreamer/TraceBrazukaLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",TraceLatina
+http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",TraceUrbanasia
+http://78.129.237.68/tsstreamer/TraceUrbanasiaLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",TwistedMirror
+http://78.129.193.17/tsstreamer/TwistedMirrorLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",TwistedMirror
+http://95.154.194.78/tsstreamer/TwistedMirrorLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",Unreel
+http://78.129.253.189/tsstreamer/UnreelLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",VoxAfrica
+http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",WBC
+http://78.129.253.189/tsstreamer/WBCLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",WBC
+http://109.200.6.10/tsstreamer/WBCLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;AU;BH;KH;EG;FI;ID;IQ;PS" tvg-logo="" group-title="Undefined",WSTO
+https://5d80890572342.streamlock.net:1936/live/wstoLive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",Zoom
+http://78.129.193.17/tsstreamer/ZoomLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;EG;FR;GE;GR;HU;ID;SK;AE" tvg-logo="" group-title="Undefined;FRANCE",Zoom
+http://95.154.194.78/tsstreamer/ZoomLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" group-title="News",iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="News",iNews (720p)
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8?checkedby:iptvcat.com
